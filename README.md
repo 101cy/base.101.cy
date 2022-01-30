@@ -2,16 +2,18 @@
 
 Landing page
 
-## dev
+## Dev
 ```bash
 npm install
 npm start
 ```
 
-## build
+## Build
 
 ```bash
 npm run build
 ```
 
-## production the project is set up to automatically deploy on netlify
+## Production 
+
+The project is set up to automatically deploy on netlify
